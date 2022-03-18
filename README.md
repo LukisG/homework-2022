@@ -5,6 +5,9 @@ Homework consist of **Back-End** anf **Front-End** tasks.
 
 Full task description can be found here: https://docs.google.com/document/d/17Z5n83J3I18Ek10uiNa9zrtnChtUwlLiQkphxGToKjo/edit?usp=sharing
 
+## How to start: 
+1. cd ./frontend
+2. npm start
 
 ## Setup:
 1. Fork this project using the `fork` button in the top right of the github page
